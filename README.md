@@ -1,41 +1,29 @@
-# Quiz App (React + Vite + Tailwind)
+# ⚡ Quiz Master
 
-A clean, responsive quiz application that loads questions from **Open Trivia DB** or **local JSON category packs**. Features single-question flow, scoring, results review, 30s per-question timer with auto-skip, and protected routes.
+A fun and interactive quiz app built with **React + TailwindCSS**.  
+Practice, compete, and track your progress with questions from **Open Trivia API** or **local JSON**.
+
+---
 
 ## ✨ Features
-- React + Vite + Tailwind (responsive, modern UI)
-- One question at a time (4 options), **Next disabled until you choose**
-- **Skip** button + **30s timer** → auto-skip if unanswered
-- Score tracking + **Results** page (selected vs correct)
-- Data sources:
-  - **Open Trivia DB** (live)
-  - **Local category packs** (GK, JS, Science, Sports, History, Geography)
-- Routing with React Router (`/`, `/dashboard`, `/quiz`, `/results`)
-- Basic auth flow (Login/Register) + protected routes
+
+- 🎯 **Quick Start** – Choose number of questions, difficulty, and source.
+- 📚 **Explore Categories** – Start category-based quizzes (20 questions each).
+- ⏱ **Timer** – 30s countdown per question.
+- 📝 **Instant Results** – Get feedback instantly.
+- 💾 **Preferences Saved** – Stores your quiz settings in `localStorage`.
+- 🎨 **Modern UI** – Built with TailwindCSS.
+- 🔠 **Animated Hero Text** – Dynamic typing effect for "Learn fast. Play faster."
 
 ---
 
-## 🧱 Tech Stack
-- **React 18+**, **Vite**
-- **React Router**
-- **Tailwind CSS**
+## 🛠️ Tech Stack
 
----
+- **React** (Vite / CRA)
+- **TailwindCSS** (for styling)
+- **React Router** (navigation)
+- **Framer Motion** (animations)
+- **Open Trivia API** (live questions)
 
-## 📁 Project Structure (key folders)
-src/
-components/
-Navbar.jsx
-Quiz.jsx
-Results.jsx
-pages/
-Home.jsx
-Dashboard.jsx
-Login.jsx
-Register.jsx
-utils/
-loadQuestions.js
-data/
-localBank.js # local category questions (demo packs)
-App.jsx
-main.jsx
+--
+

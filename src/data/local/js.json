@@ -1,0 +1,22 @@
+[
+  { "question": "In which year was JavaScript first released?", "correct": "1995", "incorrect": ["1991", "1993", "1997"], "difficulty": "medium", "category": "JavaScript" },
+  { "question": "What is the result of `typeof null`?", "correct": "object", "incorrect": ["null", "undefined", "number"], "difficulty": "medium", "category": "JavaScript" },
+  { "question": "Which Array method adds one or more elements to the end?", "correct": "push()", "incorrect": ["pop()", "unshift()", "splice()"], "difficulty": "easy", "category": "JavaScript" },
+  { "question": "Which operator checks both value and type for equality?", "correct": "===", "incorrect": ["==", "=", "!=="], "difficulty": "easy", "category": "JavaScript" },
+  { "question": "Which keyword creates a block-scoped variable?", "correct": "let", "incorrect": ["var", "def", "int"], "difficulty": "easy", "category": "JavaScript" },
+  { "question": "JSON stands for ____.", "correct": "JavaScript Object Notation", "incorrect": ["Java Source Oriented Notation", "JavaScript Ordinal Nodes", "Java Scripted Object Network"], "difficulty": "easy", "category": "JavaScript" },
+  { "question": "A Promise can be in which states?", "correct": "pending, fulfilled, rejected", "incorrect": ["open, closed, error", "start, stop, done", "idle, running, error"], "difficulty": "medium", "category": "JavaScript" },
+  { "question": "Arrow functions have a lexical binding of ____.", "correct": "this", "incorrect": ["prototype", "constructor", "super"], "difficulty": "medium", "category": "JavaScript" },
+  { "question": "The DOM stands for ____.", "correct": "Document Object Model", "incorrect": ["Dynamic Object Map", "Document Order Model", "Data Object Model"], "difficulty": "easy", "category": "JavaScript" },
+  { "question": "Default parameter syntax is valid in which example?", "correct": "function f(x = 1) {}", "incorrect": ["function f(default x) {}", "function f(x:1) {}", "function f(=x) {}"], "difficulty": "medium", "category": "JavaScript" },
+  { "question": "Which Array method returns a new array with transformed elements?", "correct": "map()", "incorrect": ["forEach()", "reduce()", "every()"], "difficulty": "easy", "category": "JavaScript" },
+  { "question": "Which method creates a new array with elements that pass a test?", "correct": "filter()", "incorrect": ["slice()", "concat()", "join()"], "difficulty": "easy", "category": "JavaScript" },
+  { "question": "Which method converts a JSON string to an object?", "correct": "JSON.parse()", "incorrect": ["JSON.stringify()", "toJSON()", "parseJSON()"], "difficulty": "easy", "category": "JavaScript" },
+  { "question": "What does `'use strict'` do?", "correct": "Enables strict mode with additional errors and restrictions", "incorrect": ["Optimizes performance only", "Enables modules", "Disables exceptions"], "difficulty": "medium", "category": "JavaScript" },
+  { "question": "What is the type of `NaN`?", "correct": "number", "incorrect": ["NaN", "undefined", "object"], "difficulty": "medium", "category": "JavaScript" },
+  { "question": "What is the result of `Array.isArray([])`?", "correct": "true", "incorrect": ["false", "undefined", "null"], "difficulty": "easy", "category": "JavaScript" },
+  { "question": "Which operator spreads elements of an iterable?", "correct": "... (spread operator)", "incorrect": ["?? (nullish)", "=> (arrow)", ":: (bind)"], "difficulty": "easy", "category": "JavaScript" },
+  { "question": "Which statement defines a class?", "correct": "class MyClass {}", "incorrect": ["function class MyClass{}", "new Class()", "def class MyClass"], "difficulty": "easy", "category": "JavaScript" },
+  { "question": "Which loop iterates over iterable values (not keys)?", "correct": "for...of", "incorrect": ["for...in", "for (i in arr)", "Object.keys().forEach"], "difficulty": "medium", "category": "JavaScript" },
+  { "question": "Which API schedules a function once after a delay?", "correct": "setTimeout()", "incorrect": ["setInterval()", "requestIdleCallback()", "queueMicrotask()"], "difficulty": "easy", "category": "JavaScript" }
+]

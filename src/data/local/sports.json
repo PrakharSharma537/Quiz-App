@@ -1,0 +1,22 @@
+[
+  { "question": "How many players does a soccer team have on the field?", "correct": "11", "incorrect": ["9", "10", "12"], "difficulty": "easy", "category": "Sports" },
+  { "question": "How many rings are there on the Olympic flag?", "correct": "5", "incorrect": ["4", "6", "7"], "difficulty": "easy", "category": "Sports" },
+  { "question": "Which tennis Grand Slam is played on grass courts?", "correct": "Wimbledon", "incorrect": ["Australian Open", "French Open", "US Open"], "difficulty": "easy", "category": "Sports" },
+  { "question": "In cricket, how many legal deliveries make up an over?", "correct": "6", "incorrect": ["5", "8", "10"], "difficulty": "easy", "category": "Sports" },
+  { "question": "How many points is a successful three-point shot worth in basketball?", "correct": "3", "incorrect": ["2", "1", "4"], "difficulty": "easy", "category": "Sports" },
+  { "question": "In baseball, how many strikes result in a strikeout?", "correct": "3", "incorrect": ["2", "4", "5"], "difficulty": "easy", "category": "Sports" },
+  { "question": "Which chess piece moves in an L-shape?", "correct": "Knight", "incorrect": ["Bishop", "Rook", "Queen"], "difficulty": "easy", "category": "Sports" },
+  { "question": "Which national rugby team is nicknamed the All Blacks?", "correct": "New Zealand", "incorrect": ["South Africa", "England", "Australia"], "difficulty": "medium", "category": "Sports" },
+  { "question": "What is the name of the NFL Super Bowl trophy?", "correct": "Vince Lombardi Trophy", "incorrect": ["Heisman Trophy", "George Halas Trophy", "Lamar Hunt Trophy"], "difficulty": "medium", "category": "Sports" },
+  { "question": "In Formula 1, which flag signals the end of a race?", "correct": "Chequered flag", "incorrect": ["Red flag", "Yellow flag", "Blue flag"], "difficulty": "easy", "category": "Sports" },
+  { "question": "In golf, one stroke under par for a hole is called a ____.", "correct": "Birdie", "incorrect": ["Eagle", "Par", "Bogey"], "difficulty": "easy", "category": "Sports" },
+  { "question": "What is the official marathon distance?", "correct": "42.195 km", "incorrect": ["40 km", "26.2 km", "50 km"], "difficulty": "medium", "category": "Sports" },
+  { "question": "In badminton, the projectile that players hit is called a ____.", "correct": "Shuttlecock", "incorrect": ["Featherball", "Birdball", "Shuttleball"], "difficulty": "easy", "category": "Sports" },
+  { "question": "In boxing, 'KO' stands for ____.", "correct": "Knockout", "incorrect": ["Kick-off", "Keep out", "Knock-over"], "difficulty": "easy", "category": "Sports" },
+  { "question": "A standard game of table tennis is played to ____ points (win by two).", "correct": "11", "incorrect": ["15", "9", "21"], "difficulty": "medium", "category": "Sports" },
+  { "question": "Cricket originated in which country?", "correct": "England", "incorrect": ["India", "Australia", "South Africa"], "difficulty": "medium", "category": "Sports" },
+  { "question": "The FIFA World Cup is held every ____ years.", "correct": "4", "incorrect": ["2", "3", "5"], "difficulty": "easy", "category": "Sports" },
+  { "question": "In tennis, after deuce, if the server wins the next point the score is ____.", "correct": "Advantage in", "incorrect": ["Advantage out", "Deuce again", "Game"], "difficulty": "medium", "category": "Sports" },
+  { "question": "The top professional basketball league in the United States is the ____.", "correct": "NBA", "incorrect": ["NCAA", "WNBA", "NBL"], "difficulty": "easy", "category": "Sports" },
+  { "question": "Which city hosted the 2016 Summer Olympics?", "correct": "Rio de Janeiro", "incorrect": ["London", "Tokyo", "Beijing"], "difficulty": "easy", "category": "Sports" }
+]

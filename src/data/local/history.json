@@ -1,0 +1,22 @@
+[
+  { "question": "Who was the first President of the United States?", "correct": "George Washington", "incorrect": ["John Adams", "Thomas Jefferson", "James Madison"], "difficulty": "easy", "category": "History" },
+  { "question": "World War II ended in which year?", "correct": "1945", "incorrect": ["1944", "1946", "1939"], "difficulty": "easy", "category": "History" },
+  { "question": "The Great Wall is located in which country?", "correct": "China", "incorrect": ["India", "Mongolia", "Japan"], "difficulty": "easy", "category": "History" },
+  { "question": "Which Roman leader was assassinated in 44 BCE?", "correct": "Julius Caesar", "incorrect": ["Augustus", "Nero", "Hadrian"], "difficulty": "medium", "category": "History" },
+  { "question": "In which year did Apollo 11 land on the Moon?", "correct": "1969", "incorrect": ["1968", "1970", "1967"], "difficulty": "easy", "category": "History" },
+  { "question": "The Renaissance began in which Italian city?", "correct": "Florence", "incorrect": ["Rome", "Venice", "Milan"], "difficulty": "medium", "category": "History" },
+  { "question": "The Magna Carta was signed in ____.", "correct": "1215", "incorrect": ["1066", "1492", "1666"], "difficulty": "medium", "category": "History" },
+  { "question": "Who was the first woman to fly solo across the Atlantic?", "correct": "Amelia Earhart", "incorrect": ["Valentina Tereshkova", "Sally Ride", "Bessie Coleman"], "difficulty": "medium", "category": "History" },
+  { "question": "The Cold War primarily involved tensions between the USA and ____.", "correct": "the Soviet Union", "incorrect": ["China", "Germany", "Japan"], "difficulty": "easy", "category": "History" },
+  { "question": "The Industrial Revolution began in which country?", "correct": "Great Britain", "incorrect": ["France", "Germany", "United States"], "difficulty": "medium", "category": "History" },
+  { "question": "The Berlin Wall fell in which year?", "correct": "1989", "incorrect": ["1987", "1991", "1993"], "difficulty": "easy", "category": "History" },
+  { "question": "Who was the Portuguese explorer who reached India by sea around Africa?", "correct": "Vasco da Gama", "incorrect": ["Ferdinand Magellan", "Christopher Columbus", "Bartolomeu Dias"], "difficulty": "medium", "category": "History" },
+  { "question": "Which empire was ruled by Genghis Khan?", "correct": "Mongol Empire", "incorrect": ["Ottoman Empire", "Roman Empire", "Persian Empire"], "difficulty": "easy", "category": "History" },
+  { "question": "Who invented the movable-type printing press in Europe?", "correct": "Johannes Gutenberg", "incorrect": ["Leonardo da Vinci", "Martin Luther", "Isaac Newton"], "difficulty": "medium", "category": "History" },
+  { "question": "The Pyramids of Giza are located in which country?", "correct": "Egypt", "incorrect": ["Sudan", "Ethiopia", "Jordan"], "difficulty": "easy", "category": "History" },
+  { "question": "The Treaty of Versailles formally ended which war?", "correct": "World War I", "incorrect": ["World War II", "Franco-Prussian War", "Crimean War"], "difficulty": "medium", "category": "History" },
+  { "question": "The fall of Constantinople occurred in which year?", "correct": "1453", "incorrect": ["1415", "1492", "1517"], "difficulty": "hard", "category": "History" },
+  { "question": "Who was the U.S. President during most of the American Civil War?", "correct": "Abraham Lincoln", "incorrect": ["Ulysses S. Grant", "Andrew Johnson", "James Buchanan"], "difficulty": "easy", "category": "History" },
+  { "question": "Who co-authored 'The Communist Manifesto' with Friedrich Engels?", "correct": "Karl Marx", "incorrect": ["Vladimir Lenin", "Joseph Stalin", "Mao Zedong"], "difficulty": "medium", "category": "History" },
+  { "question": "Machu Picchu was built by which ancient civilization?", "correct": "Inca", "incorrect": ["Maya", "Aztec", "Olmec"], "difficulty": "easy", "category": "History" }
+]

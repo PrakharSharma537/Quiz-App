@@ -1,0 +1,91 @@
+[
+  {
+    "question": "What is the result of 2 ** 3 in JavaScript?",
+    "options": ["5", "6", "8", "9"],
+    "answerIndex": 2,
+    "difficulty": "easy",
+    "category": "JavaScript"
+  },
+  {
+    "question": "Which HTML element do we put JavaScript in?",
+    "options": ["<js>", "<javascript>", "<scripting>", "<script>"],
+    "answerIndex": 3,
+    "difficulty": "easy",
+    "category": "Web"
+  },
+  {
+    "question": "Which array method returns a new array with elements that pass a test?",
+    "options": ["map()", "filter()", "reduce()", "forEach()"],
+    "answerIndex": 1,
+    "difficulty": "easy",
+    "category": "JavaScript"
+  },
+  {
+    "question": "CSS property used to control text size is?",
+    "options": ["font-style", "text-size", "font-weight", "font-size"],
+    "answerIndex": 3,
+    "difficulty": "easy",
+    "category": "CSS"
+  },
+  {
+    "question": "Which HTTP status code means 'Not Found'?",
+    "options": ["200", "301", "404", "500"],
+    "answerIndex": 2,
+    "difficulty": "easy",
+    "category": "Web"
+  },
+  {
+    "question": "Which method converts JSON string to an object?",
+    "options": ["JSON.parse()", "JSON.stringify()", "JSON.toObject()", "JSON.decode()"],
+    "answerIndex": 0,
+    "difficulty": "medium",
+    "category": "JavaScript"
+  },
+  {
+    "question": "In React, which hook is used for side effects?",
+    "options": ["useState", "useEffect", "useMemo", "useRef"],
+    "answerIndex": 1,
+    "difficulty": "medium",
+    "category": "React"
+  },
+  {
+    "question": "What is the output of typeof null in JavaScript?",
+    "options": ["\"object\"", "\"null\"", "\"undefined\"", "\"number\""],
+    "answerIndex": 0,
+    "difficulty": "medium",
+    "category": "JavaScript"
+  },
+  {
+    "question": "Which CSS layout module provides a one-dimensional layout?",
+    "options": ["Grid", "Flexbox", "Positioning", "Floats"],
+    "answerIndex": 1,
+    "difficulty": "medium",
+    "category": "CSS"
+  },
+  {
+    "question": "Which Array method executes a reducer function on each element?",
+    "options": ["forEach()", "map()", "reduce()", "some()"],
+    "answerIndex": 2,
+    "difficulty": "hard",
+    "category": "JavaScript"
+  },
+  {
+    "question": "What is the correct way to lazy-load a component in React?",
+    "options": [
+      "const Comp = React.lazy(() => import('./Comp'))",
+      "const Comp = lazyImport('./Comp')",
+      "import Comp from './Comp'?lazy",
+      "const Comp = import('./Comp')"
+    ],
+    "answerIndex": 0,
+    "difficulty": "hard",
+    "category": "React"
+  },
+  {
+    "question": "Which CSS function is used to create a variable?",
+    "options": ["var()", "calc()", "attr()", "env()"],
+    "answerIndex": 0,
+    "difficulty": "hard",
+    "category": "CSS"
+  }
+]

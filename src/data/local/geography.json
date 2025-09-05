@@ -1,0 +1,22 @@
+[
+  { "question": "Which is commonly listed as the longest river in the world?", "correct": "Nile", "incorrect": ["Amazon", "Yangtze", "Congo"], "difficulty": "medium", "category": "Geography" },
+  { "question": "Which is the largest country by land area?", "correct": "Russia", "incorrect": ["Canada", "China", "United States"], "difficulty": "easy", "category": "Geography" },
+  { "question": "What is the capital of Australia?", "correct": "Canberra", "incorrect": ["Sydney", "Melbourne", "Perth"], "difficulty": "easy", "category": "Geography" },
+  { "question": "Which desert covers much of northern Africa?", "correct": "Sahara", "incorrect": ["Gobi", "Karakum", "Thar"], "difficulty": "easy", "category": "Geography" },
+  { "question": "Which mountain range traditionally separates Europe and Asia?", "correct": "Ural Mountains", "incorrect": ["Caucasus Mountains", "Alps", "Carpathians"], "difficulty": "medium", "category": "Geography" },
+  { "question": "What is the smallest country in the world by area?", "correct": "Vatican City", "incorrect": ["Monaco", "San Marino", "Liechtenstein"], "difficulty": "easy", "category": "Geography" },
+  { "question": "Which sea lies between Europe and Africa?", "correct": "Mediterranean Sea", "incorrect": ["Black Sea", "Red Sea", "Baltic Sea"], "difficulty": "easy", "category": "Geography" },
+  { "question": "Which country is known as the 'Land of the Rising Sun'?", "correct": "Japan", "incorrect": ["China", "South Korea", "Thailand"], "difficulty": "easy", "category": "Geography" },
+  { "question": "Which river runs through Egypt?", "correct": "Nile", "incorrect": ["Euphrates", "Tigris", "Jordan"], "difficulty": "easy", "category": "Geography" },
+  { "question": "Which U.S. state has the largest area?", "correct": "Alaska", "incorrect": ["Texas", "California", "Montana"], "difficulty": "easy", "category": "Geography" },
+  { "question": "What is the capital of Canada?", "correct": "Ottawa", "incorrect": ["Toronto", "Vancouver", "Montreal"], "difficulty": "easy", "category": "Geography" },
+  { "question": "Which African lake is a primary source of the White Nile?", "correct": "Lake Victoria", "incorrect": ["Lake Tanganyika", "Lake Malawi", "Lake Turkana"], "difficulty": "medium", "category": "Geography" },
+  { "question": "Which ocean lies to the south of India and between Africa and Australia?", "correct": "Indian Ocean", "incorrect": ["Atlantic Ocean", "Southern Ocean", "Pacific Ocean"], "difficulty": "easy", "category": "Geography" },
+  { "question": "Marrakech is a famous city in which country?", "correct": "Morocco", "incorrect": ["Algeria", "Tunisia", "Egypt"], "difficulty": "medium", "category": "Geography" },
+  { "question": "Spain and Portugal are on which peninsula?", "correct": "Iberian Peninsula", "incorrect": ["Balkan Peninsula", "Scandinavian Peninsula", "Apennine Peninsula"], "difficulty": "easy", "category": "Geography" },
+  { "question": "Which is the world’s highest waterfall by height?", "correct": "Angel Falls", "incorrect": ["Tugela Falls", "Niagara Falls", "Victoria Falls"], "difficulty": "medium", "category": "Geography" },
+  { "question": "Which country is entirely surrounded by South Africa?", "correct": "Lesotho", "incorrect": ["Eswatini", "Botswana", "Namibia"], "difficulty": "medium", "category": "Geography" },
+  { "question": "What is the capital of Brazil?", "correct": "Brasília", "incorrect": ["Rio de Janeiro", "São Paulo", "Salvador"], "difficulty": "easy", "category": "Geography" },
+  { "question": "Prague is the capital of which European country?", "correct": "Czech Republic", "incorrect": ["Poland", "Austria", "Hungary"], "difficulty": "easy", "category": "Geography" },
+  { "question": "Istanbul famously spans two continents. In which country is it located?", "correct": "Turkey", "incorrect": ["Greece", "Bulgaria", "Cyprus"], "difficulty": "easy", "category": "Geography" }
+]

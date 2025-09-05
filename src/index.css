@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer utilities {
+  .input {
+    @apply w-full px-3 py-2 rounded-xl bg-slate-900 border border-border focus:outline-none focus:ring-2 focus:ring-brand;
+  }
+  .section {
+    @apply max-w-6xl mx-auto px-4;
+  }
+}

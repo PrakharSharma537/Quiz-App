@@ -1,0 +1,22 @@
+[
+  { "question": "What is the chemical name for H₂O?", "correct": "Water", "incorrect": ["Hydrogen peroxide", "Hydroxide", "Hydronium"], "difficulty": "easy", "category": "Science" },
+  { "question": "Which gas makes up the largest proportion of Earth’s atmosphere?", "correct": "Nitrogen", "incorrect": ["Oxygen", "Carbon dioxide", "Argon"], "difficulty": "easy", "category": "Science" },
+  { "question": "The speed of light in vacuum is approximately ____ km/s.", "correct": "299,792", "incorrect": ["150,000", "30,000", "1,079,000"], "difficulty": "medium", "category": "Science" },
+  { "question": "Photosynthesis primarily occurs in which cell organelle?", "correct": "Chloroplast", "incorrect": ["Mitochondrion", "Nucleus", "Ribosome"], "difficulty": "easy", "category": "Science" },
+  { "question": "Normal human blood pH is around ____.", "correct": "7.4", "incorrect": ["6.8", "7.0", "8.0"], "difficulty": "medium", "category": "Science" },
+  { "question": "How many bones are in the adult human skeleton?", "correct": "206", "incorrect": ["201", "208", "212"], "difficulty": "medium", "category": "Science" },
+  { "question": "Which planet is known as the Red Planet?", "correct": "Mars", "incorrect": ["Jupiter", "Venus", "Mercury"], "difficulty": "easy", "category": "Science" },
+  { "question": "Plants primarily absorb which gas from the atmosphere?", "correct": "Carbon dioxide", "incorrect": ["Oxygen", "Nitrogen", "Methane"], "difficulty": "easy", "category": "Science" },
+  { "question": "Newton’s third law states: For every action, there is an ____.", "correct": "equal and opposite reaction", "incorrect": ["equal force", "increasing acceleration", "equal direction"], "difficulty": "easy", "category": "Science" },
+  { "question": "DNA stands for ____.", "correct": "Deoxyribonucleic acid", "incorrect": ["Deoxyribose nucleic acid", "Dual nucleic acid", "Dextrose nucleic acid"], "difficulty": "easy", "category": "Science" },
+  { "question": "The SI unit of force is the ____.", "correct": "Newton", "incorrect": ["Joule", "Pascal", "Watt"], "difficulty": "easy", "category": "Science" },
+  { "question": "The largest organ of the human body is the ____.", "correct": "Skin", "incorrect": ["Liver", "Lungs", "Brain"], "difficulty": "easy", "category": "Science" },
+  { "question": "Water boils at what temperature at sea level?", "correct": "100°C", "incorrect": ["90°C", "80°C", "120°C"], "difficulty": "easy", "category": "Science" },
+  { "question": "Which metal is liquid at room temperature?", "correct": "Mercury", "incorrect": ["Sodium", "Aluminium", "Lead"], "difficulty": "medium", "category": "Science" },
+  { "question": "The SI unit of energy is the ____.", "correct": "Joule", "incorrect": ["Calorie", "Volt", "Erg"], "difficulty": "easy", "category": "Science" },
+  { "question": "Earth’s inner core is composed mainly of ____.", "correct": "Iron and nickel", "incorrect": ["Silicon and oxygen", "Carbon and iron", "Magnesium and aluminium"], "difficulty": "medium", "category": "Science" },
+  { "question": "The body synthesizes which vitamin when exposed to sunlight?", "correct": "Vitamin D", "incorrect": ["Vitamin C", "Vitamin A", "Vitamin B12"], "difficulty": "easy", "category": "Science" },
+  { "question": "Which instrument is used to measure earthquakes?", "correct": "Seismograph", "incorrect": ["Barometer", "Thermometer", "Hygrometer"], "difficulty": "medium", "category": "Science" },
+  { "question": "Which organelle is known as the 'powerhouse of the cell'?", "correct": "Mitochondria", "incorrect": ["Golgi apparatus", "Endoplasmic reticulum", "Lysosome"], "difficulty": "easy", "category": "Science" },
+  { "question": "Oxygen is carried in the blood mainly attached to ____.", "correct": "Hemoglobin", "incorrect": ["Leukocytes", "Platelets", "Myelin"], "difficulty": "medium", "category": "Science" }
+]
